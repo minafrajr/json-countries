@@ -22,26 +22,6 @@
     },
     {
       "id": 3,
-      "name": "Bélgica",
-      "region": "Europe",
-      "population": 11319511,
-      "flag": "https://restcountries.eu/data/bel.svg",
-      "languages": [
-        "french"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Benin",
-      "region": "Africa",
-      "population": 10653654,
-      "flag": "https://restcountries.eu/data/ben.svg",
-      "languages": [
-        "french"
-      ]
-    },
-    {
-      "id": 5,
       "name": "Brasil",
       "region": "Americas",
       "population": 206135893,
@@ -51,7 +31,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Burkina Faso",
       "region": "Africa",
       "population": 19034397,
@@ -61,17 +41,7 @@
       ]
     },
     {
-      "id": 7,
-      "name": "Burundi",
-      "region": "Africa",
-      "population": 10114505,
-      "flag": "https://restcountries.eu/data/bdi.svg",
-      "languages": [
-        "french"
-      ]
-    },
-    {
-      "id": 8,
+      "id": 5,
       "name": "Camarões",
       "region": "Africa",
       "population": 22709892,
@@ -82,7 +52,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 6,
       "name": "Canadá",
       "region": "Americas",
       "population": 36155487,
@@ -93,7 +63,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 7,
       "name": "Chade",
       "region": "Africa",
       "population": 14497000,
@@ -103,7 +73,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 8,
       "name": "RD Congo",
       "region": "Africa",
       "population": 85026000,
@@ -113,7 +83,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 9,
       "name": "França",
       "region": "Europe",
       "population": 66710000,
@@ -123,7 +93,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 10,
       "name": "Gana",
       "region": "Africa",
       "population": 27670174,
@@ -133,27 +103,7 @@
       ]
     },
     {
-      "id": 14,
-      "name": "Guiné",
-      "region": "Africa",
-      "population": 12947000,
-      "flag": "https://restcountries.eu/data/gin.svg",
-      "languages": [
-        "french"
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Haiti",
-      "region": "Americas",
-      "population": 11078033,
-      "flag": "https://restcountries.eu/data/hti.svg",
-      "languages": [
-        "french"
-      ]
-    },
-    {
-      "id": 16,
+      "id": 11,
       "name": "Índia",
       "region": "Asia",
       "population": 1295210000,
@@ -163,7 +113,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 12,
       "name": "Costa do Marfim",
       "region": "Africa",
       "population": 22671331,
@@ -173,7 +123,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 13,
       "name": "Quênia",
       "region": "Africa",
       "population": 47251000,
@@ -183,7 +133,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 14,
       "name": "Madagascar",
       "region": "Africa",
       "population": 22434363,
@@ -193,7 +143,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 15,
       "name": "Malawi",
       "region": "Africa",
       "population": 16832910,
@@ -203,7 +153,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 16,
       "name": "Mali",
       "region": "Africa",
       "population": 18135000,
@@ -213,7 +163,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 17,
       "name": "Moçambique",
       "region": "Africa",
       "population": 26423700,
@@ -223,7 +173,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 18,
       "name": "Níger",
       "region": "Africa",
       "population": 20715000,
@@ -233,7 +183,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 19,
       "name": "Nigéria",
       "region": "Africa",
       "population": 186988000,
@@ -243,7 +193,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 20,
       "name": "Paquistão",
       "region": "Asia",
       "population": 194125062,
@@ -253,7 +203,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 21,
       "name": "Filipinas",
       "region": "Asia",
       "population": 103279800,
@@ -263,28 +213,7 @@
       ]
     },
     {
-      "id": 27,
-      "name": "Portugal",
-      "region": "Europe",
-      "population": 10374822,
-      "flag": "https://restcountries.eu/data/prt.svg",
-      "languages": [
-        "portuguese"
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Ruanda",
-      "region": "Africa",
-      "population": 11553188,
-      "flag": "https://restcountries.eu/data/rwa.svg",
-      "languages": [
-        "english",
-        "french"
-      ]
-    },
-    {
-      "id": 29,
+      "id": 22,
       "name": "Senegal",
       "region": "Africa",
       "population": 14799859,
@@ -294,11 +223,81 @@
       ]
     },
     {
-      "id": 30,
+      "id": 23,
       "name": "República Sul-Africana",
       "region": "Africa",
       "population": 55653654,
       "flag": "https://restcountries.eu/data/zaf.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Sudão",
+      "region": "Africa",
+      "population": 39598700,
+      "flag": "https://restcountries.eu/data/sdn.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Tanzânia",
+      "region": "Africa",
+      "population": 55155000,
+      "flag": "https://restcountries.eu/data/tza.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Uganda",
+      "region": "Africa",
+      "population": 33860700,
+      "flag": "https://restcountries.eu/data/uga.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Reino Unido",
+      "region": "Europe",
+      "population": 65110000,
+      "flag": "https://restcountries.eu/data/gbr.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Estados Unidos",
+      "region": "Americas",
+      "population": 323947000,
+      "flag": "https://restcountries.eu/data/usa.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Zâmbia",
+      "region": "Africa",
+      "population": 15933883,
+      "flag": "https://restcountries.eu/data/zmb.svg",
+      "languages": [
+        "english"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Zimbabwe",
+      "region": "Africa",
+      "population": 14240168,
+      "flag": "https://restcountries.eu/data/zwe.svg",
       "languages": [
         "english"
       ]
