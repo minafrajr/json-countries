@@ -2,93 +2,243 @@
   "countries": [
     {
       "id": 1,
-      "name": "Argentina",
-      "population": 43590400,
-      "flag": "https://restcountries.eu/data/arg.svg"
+      "name": "Angola",
+      "region": "Africa",
+      "population": 25868000,
+      "flag": "https://restcountries.eu/data/ago.svg",
+      "language": "Portuguese"
     },
     {
       "id": 2,
-      "name": "Bolívia",
-      "population": 10985059,
-      "flag": "https://restcountries.eu/data/bol.svg"
+      "name": "Austrália",
+      "region": "Oceania",
+      "population": 24117360,
+      "flag": "https://restcountries.eu/data/aus.svg",
+      "language": "English"
     },
     {
       "id": 3,
-      "name": "Brasil",
-      "population": 206135893,
-      "flag": "https://restcountries.eu/data/bra.svg"
+      "name": "Benin",
+      "region": "Africa",
+      "population": 10653654,
+      "flag": "https://restcountries.eu/data/ben.svg",
+      "language": "French"
     },
     {
       "id": 4,
-      "name": "Chile",
-      "population": 18191900,
-      "flag": "https://restcountries.eu/data/chl.svg"
+      "name": "Brasil",
+      "region": "Americas",
+      "population": 206135893,
+      "flag": "https://restcountries.eu/data/bra.svg",
+      "language": "Portuguese"
     },
     {
       "id": 5,
-      "name": "Colômbia",
-      "population": 48759958,
-      "flag": "https://restcountries.eu/data/col.svg"
+      "name": "Burkina Faso",
+      "region": "Africa",
+      "population": 19034397,
+      "flag": "https://restcountries.eu/data/bfa.svg",
+      "language": "French"
     },
     {
       "id": 6,
-      "name": "Equador",
-      "population": 16545799,
-      "flag": "https://restcountries.eu/data/ecu.svg"
+      "name": "Burundi",
+      "region": "Africa",
+      "population": 10114505,
+      "flag": "https://restcountries.eu/data/bdi.svg",
+      "language": "French"
     },
     {
       "id": 7,
-      "name": "Ilhas Malvinas",
-      "population": 2563,
-      "flag": "https://restcountries.eu/data/flk.svg"
+      "name": "Camarões",
+      "region": "Africa",
+      "population": 22709892,
+      "flag": "https://restcountries.eu/data/cmr.svg",
+      "language": "English"
     },
     {
       "id": 8,
-      "name": "Guiana Francesa",
-      "population": 254541,
-      "flag": "https://restcountries.eu/data/guf.svg"
+      "name": "Canadá",
+      "region": "Americas",
+      "population": 36155487,
+      "flag": "https://restcountries.eu/data/can.svg",
+      "language": "English"
     },
     {
       "id": 9,
-      "name": "Guiana",
-      "population": 746900,
-      "flag": "https://restcountries.eu/data/guy.svg"
+      "name": "Chade",
+      "region": "Africa",
+      "population": 14497000,
+      "flag": "https://restcountries.eu/data/tcd.svg",
+      "language": "French"
     },
     {
       "id": 10,
-      "name": "Paraguai",
-      "population": 6854536,
-      "flag": "https://restcountries.eu/data/pry.svg"
+      "name": "RD Congo",
+      "region": "Africa",
+      "population": 85026000,
+      "flag": "https://restcountries.eu/data/cod.svg",
+      "language": "French"
     },
     {
       "id": 11,
-      "name": "Peru",
-      "population": 31488700,
-      "flag": "https://restcountries.eu/data/per.svg"
+      "name": "França",
+      "region": "Europe",
+      "population": 66710000,
+      "flag": "https://restcountries.eu/data/fra.svg",
+      "language": "French"
     },
     {
       "id": 12,
-      "name": "Ilhas Geórgias do Sul e Sandwich do Sul",
-      "population": 30,
-      "flag": "https://restcountries.eu/data/sgs.svg"
+      "name": "Gana",
+      "region": "Africa",
+      "population": 27670174,
+      "flag": "https://restcountries.eu/data/gha.svg",
+      "language": "English"
     },
     {
       "id": 13,
-      "name": "Suriname",
-      "population": 541638,
-      "flag": "https://restcountries.eu/data/sur.svg"
+      "name": "Guiné",
+      "region": "Africa",
+      "population": 12947000,
+      "flag": "https://restcountries.eu/data/gin.svg",
+      "language": "French"
     },
     {
       "id": 14,
-      "name": "Uruguai",
-      "population": 3480222,
-      "flag": "https://restcountries.eu/data/ury.svg"
+      "name": "Haiti",
+      "region": "Americas",
+      "population": 11078033,
+      "flag": "https://restcountries.eu/data/hti.svg",
+      "language": "French"
     },
     {
       "id": 15,
-      "name": "Venezuela",
-      "population": 31028700,
-      "flag": "https://restcountries.eu/data/ven.svg"
+      "name": "Costa do Marfim",
+      "region": "Africa",
+      "population": 22671331,
+      "flag": "https://restcountries.eu/data/civ.svg",
+      "language": "French"
+    },
+    {
+      "id": 16,
+      "name": "Quênia",
+      "region": "Africa",
+      "population": 47251000,
+      "flag": "https://restcountries.eu/data/ken.svg",
+      "language": "English"
+    },
+    {
+      "id": 17,
+      "name": "Madagascar",
+      "region": "Africa",
+      "population": 22434363,
+      "flag": "https://restcountries.eu/data/mdg.svg",
+      "language": "French"
+    },
+    {
+      "id": 18,
+      "name": "Malawi",
+      "region": "Africa",
+      "population": 16832910,
+      "flag": "https://restcountries.eu/data/mwi.svg",
+      "language": "English"
+    },
+    {
+      "id": 19,
+      "name": "Mali",
+      "region": "Africa",
+      "population": 18135000,
+      "flag": "https://restcountries.eu/data/mli.svg",
+      "language": "French"
+    },
+    {
+      "id": 20,
+      "name": "Moçambique",
+      "region": "Africa",
+      "population": 26423700,
+      "flag": "https://restcountries.eu/data/moz.svg",
+      "language": "Portuguese"
+    },
+    {
+      "id": 21,
+      "name": "Níger",
+      "region": "Africa",
+      "population": 20715000,
+      "flag": "https://restcountries.eu/data/ner.svg",
+      "language": "French"
+    },
+    {
+      "id": 22,
+      "name": "Nigéria",
+      "region": "Africa",
+      "population": 186988000,
+      "flag": "https://restcountries.eu/data/nga.svg",
+      "language": "English"
+    },
+    {
+      "id": 23,
+      "name": "Paquistão",
+      "region": "Asia",
+      "population": 194125062,
+      "flag": "https://restcountries.eu/data/pak.svg",
+      "language": "English"
+    },
+    {
+      "id": 24,
+      "name": "Filipinas",
+      "region": "Asia",
+      "population": 103279800,
+      "flag": "https://restcountries.eu/data/phl.svg",
+      "language": "English"
+    },
+    {
+      "id": 25,
+      "name": "Portugal",
+      "region": "Europe",
+      "population": 10374822,
+      "flag": "https://restcountries.eu/data/prt.svg",
+      "language": "Portuguese"
+    },
+    {
+      "id": 26,
+      "name": "Senegal",
+      "region": "Africa",
+      "population": 14799859,
+      "flag": "https://restcountries.eu/data/sen.svg",
+      "language": "French"
+    },
+    {
+      "id": 27,
+      "name": "Sudão do Sul",
+      "region": "Africa",
+      "population": 12131000,
+      "flag": "https://restcountries.eu/data/ssd.svg",
+      "language": "English"
+    },
+    {
+      "id": 28,
+      "name": "Uganda",
+      "region": "Africa",
+      "population": 33860700,
+      "flag": "https://restcountries.eu/data/uga.svg",
+      "language": "English"
+    },
+    {
+      "id": 29,
+      "name": "Reino Unido",
+      "region": "Europe",
+      "population": 65110000,
+      "flag": "https://restcountries.eu/data/gbr.svg",
+      "language": "English"
+    },
+    {
+      "id": 30,
+      "name": "Estados Unidos",
+      "region": "Americas",
+      "population": 323947000,
+      "flag": "https://restcountries.eu/data/usa.svg",
+      "language": "English"
     }
   ]
 }
